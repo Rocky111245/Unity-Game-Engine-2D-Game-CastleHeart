@@ -4,6 +4,13 @@
 
 CastleHeart is a 2D game developed using the Unity Game Engine and C#. This game features three levels, each filled with various enemies, traps, and a final boss battle. The game is designed to offer a challenging and engaging experience, with advanced AI and dynamic gameplay elements.
 
+![Final Boss](https://github.com/user-attachments/assets/187394d7-bd52-486c-ab52-30c27a2fd8eb)
+*Image of the Final Boss*
+
+[![Watch the Gameplay Video on YouTube](https://img.youtube.com/vi/9WQALEiD94c/0.jpg)](https://www.youtube.com/watch?v=9WQALEiD94c)  
+*Watch the Gameplay Video on YouTube*
+
+
 ## Key Features
 
 - **Main Menu**: A fully functioning main menu to navigate through the game.
