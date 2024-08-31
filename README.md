@@ -8,9 +8,10 @@ CastleHeart is a 2D game developed using the Unity Game Engine and C#. This game
 *Image of the Final Boss*
 
 [![Watch the Gameplay Video on YouTube](https://img.youtube.com/vi/9WQALEiD94c/0.jpg)](https://www.youtube.com/watch?v=9WQALEiD94c)  
-*Watch the Gameplay Video on YouTube. Click above or click the link.* 
+*Watch the Gameplay Video on YouTube. Click above or click the link.*  
 https://www.youtube.com/watch?v=9WQALEiD94c
 
+> *Tip: To open the video in a new tab, right-click the link or thumbnail and select "Open link in new tab."*
 
 
 ## Key Features
