@@ -1,12 +1,33 @@
 # Unity-Game-Engine-2D-Game-CastleHeart
-This is a 2D game developed using Unity Game Engine and the language used was C#. It has three levels with various enemies,traps and a final boss.
 
-This is a 3 level 2d game that was developed using the unity game engine and C# programming language. It has a fully functioning main menu, levels with traps,enemies and a final boss. Traps are unique which includes bear traps and crushing rocks and the scripts have been provided. The enemy uses A* pathfinding algorithm to find the player and it has been fine tuned for this game. The final boss has advanced algorithm with different stages based on its health. 
+## Overview
 
-It is HIGHLY advisable to see the video and the screenshots associated with this game to get a proper understanding. 
-The video link is here:
-https://drive.google.com/file/d/1S-fwmmeopDofz8SuANIsmuThMUb0QdEE/view?usp=sharing.
+CastleHeart is a 2D game developed using the Unity Game Engine and C#. This game features three levels, each filled with various enemies, traps, and a final boss battle. The game is designed to offer a challenging and engaging experience, with advanced AI and dynamic gameplay elements.
 
-The screenshots have been shared along with the code in github.
+## Key Features
 
-It is not possible to add asset files to github since the file is too big, however, clear video and scripts have been added.
+- **Main Menu**: A fully functioning main menu to navigate through the game.
+- **Three Levels**: Each level presents unique challenges with different enemies, traps, and a final boss.
+- **Unique Traps**: The game includes distinctive traps like bear traps and crushing rocks, each with custom scripts provided.
+- **Advanced Enemy AI**: Enemies use an A* pathfinding algorithm, fine-tuned for this game to efficiently track and chase the player.
+- **Final Boss Battle**: The final boss features an advanced algorithm with different behavior stages based on its health.
+
+## Objective
+
+The primary objective of CastleHeart was to create a challenging and immersive 2D game that leverages advanced AI techniques and dynamic level design. The game was developed with a focus on delivering an engaging player experience through well-crafted levels, responsive controls, and a strategic final boss encounter.
+
+## Tech Stack
+
+- **Platform**: Unity
+- **Language**: C#
+- **IDE**: Unity Editor
+- **AI Algorithm**: A* Pathfinding
+- **Game Mechanics**: Custom scripts for traps, enemies, and boss behavior
+
+## Game Video
+
+To fully appreciate the gameplay and features of CastleHeart, it is highly recommended to watch the video demonstration
+
+- **Gameplay Video**: [Watch the Gameplay Video](https://drive.google.com/file/d/1S-fwmmeopDofz8SuANIsmuThMUb0QdEE/view?usp=sharing)
+
+
